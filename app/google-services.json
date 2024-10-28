@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821510556011",
+    "project_id": "jose-14",
+    "storage_bucket": "jose-14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821510556011:android:88420d486f90b3ce4be42e",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfbI_7d7XlvsSon7rEGDbE_6MYYSU1qaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
